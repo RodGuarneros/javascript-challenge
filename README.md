@@ -1,5 +1,7 @@
 # javascript-challenge
-Dinamic Table with Java Script
+Dynamic Table with Java Script 
+
+The result is available at https://rodguarneros.github.io/javascript-challenge/ 
 
 This project is a friendly way of organizing and publishing a data collection in a dinamic website, based on java script programming languange (79.2%), css (11.4%) and html (9.4%). 
 
