@@ -16,7 +16,7 @@ The most important elements in this application are:
 - Stablish the events inside the website
 - Generate the Java Script with every element needed: (i) Variables; (ii) tbody elements; (iii) select buttons and handlers (listeners to trigger the events), and (iv) functions for filtering and reset page.
 
-Table data and filters are visualized like this:
+Interactive website and filters are visualized like this:
 
 ## For basic filter (Level 1)
 
