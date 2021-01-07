@@ -98,7 +98,7 @@
     padding: 20px;
     margin: 0;
     background: black;
-    background-image: url("/UFO-level-2/static/images/nasa.jpg");
+    background-image: url("/static/images/nasa.jpg");
     background-attachment: fixed;
     background-position: bottom center;
     background-size: cover;
@@ -108,7 +108,7 @@
     margin-top: 200px;
     font-size: 0.1rem;
     animation: title 1.2s forwards linear;
-    color: orange;
+    color: greenyellow;
   }
   
   .hero p {
@@ -116,7 +116,7 @@
     opacity: 0;
     animation: subtitle 1.2s forwards linear;
     animation-delay: 1.2s;
-    color: orange;
+    color: greenyellow;
   }
   
   /* input placeholder color changes */
@@ -239,7 +239,7 @@
   }
 
   .table-head{
-    color: orange;
+    color: greenyellow;
     font-size: large;
   }
 
