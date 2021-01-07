@@ -13,9 +13,9 @@ Table data and filters are visualized like this:
 
 ## For basic filter (Level 1)
 
-![Alt Text](https://github.com/RodGuarneros/javascript-challenge/blob/main/UFO-level-1/static/images/Level1_Rodrigo_Guarneros.png)
+![Alt Text](https://github.com/RodGuarneros/javascript-challenge/blob/main/static/images/Level1_Rodrigo_Guarneros.png)
 
 
 ## For Advance filter (Level 2)
 
-![Alt Text](https://github.com/RodGuarneros/javascript-challenge/blob/main/UFO-level-1/static/images/Level2_Rodrigo_Guarneros.png)
+![Alt Text](https://github.com/RodGuarneros/javascript-challenge/blob/main/static/images/Level2_Rodrigo_Guarneros.png)
